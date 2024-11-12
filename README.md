@@ -18,9 +18,9 @@
 
 ###
 
-- 🔭 I’m currently working on **developing discord bots**
+- 🔭 I’m currently working on **web applications, databases and discord bots**
 
-- 🌱 I’m currently learning **discord.js**
+- 🌱 I’m currently learning **SQL, Flask and discord.js**
 
 - 📫 How to reach me: **molinalgarcia02@gmail.com**
 
