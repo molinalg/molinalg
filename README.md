@@ -18,9 +18,9 @@
 
 ###
 
-- 🔭 I’m currently working on **web applications, databases and discord bots**
+- 🔭 I’m currently working as a **QA Automation Engineer**
 
-- 🌱 I’m currently learning **SQL, Flask and discord.js**
+- 🌱 I’m currently learning **AI methodologies, CI/CD and SQL**
 
 - 📫 How to reach me: **molinalgarcia02@gmail.com**
 
